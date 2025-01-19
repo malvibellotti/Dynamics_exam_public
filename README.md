@@ -12,11 +12,6 @@ The study includes:
 1. Examining a stable configuration against perturbations to analyze the system's equilibrium.
 2. Introducing perturbations to observe the formation of a galactic bar.
 
-Key goals:
-- Initialize particle positions and velocities for equilibrium configuration. One script provides the equilibrium initialization, while another sets up a less stable configuration to induce bar formation.
-- Analyze the equilibrium state of the disk.
-- Investigate bar formation through Fourier decomposition, quantifying its strength and extent.
-
 ---
 
 ## Repository Contents
