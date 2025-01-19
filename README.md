@@ -1,7 +1,3 @@
-Here's the updated version of the README with the clarification included:
-
----
-
 # Dynamics_exam_public
 
 Project for the final examination of the course *Dynamics of Stellar Systems* (2023-2024), taught by Professor Massimo Dotti at Università degli Studi di Milano-Bicocca.
@@ -26,11 +22,11 @@ Key goals:
 ## Repository Contents
 
 This repository includes scripts and tools for:
-- **Initialization**: Generating particle positions and velocities for equilibrium and non-equilibrium configurations. (  , )
-- **Equilibrium Analysis**: Analyzing the stable configuration of the galactic disk. ()
-- **Bar Analysis**: Investigating bar formation through Fourier decomposition, quantifying its strength and length. ()
+- **Initialization**: Generating particle positions and velocities for equilibrium and non-equilibrium configurations. (Initialization_equilibrium.ipynb, Initilaization_oo7.ipynb)
+- **Equilibrium Analysis**: Analyzing the stable configuration of the galactic disk. (visualization_equilibrium.ipynb)
+- **Bar Analysis**: Investigating bar formation through Fourier decomposition, quantifying its strength and length. (visualization_007.ipynb)
 
-**Note**: Full simulation data files are hosted externally due to size constraints. Access them via this [Google Drive folder](https://drive.google.com/drive/folders/1HyY4uvtq2BRBCbJIa6yHzu842k-u3KG8?usp=sharing).
+**Note**: Full simulation data files are hosted externally due to size constraints. Access them via this [Google Drive folder](https://drive.google.com/drive/folders/1h83yOWRyBt--1jPrWqwf4KBBv79bfWXi?usp=sharing).
 
 ---
 
@@ -42,8 +38,6 @@ The simulations were carried out using a customized version of a treecode. The m
 
 ## Acknowledgments
 
-Special thanks to [Ludovica Carbone](https://github.com/ludovicarbone) for her collaboration and contributions to the initialization stage.  
+Special thanks to [Ludovica Carbone]((https://github.com/ludovicarbone)) for her collaboration and contributions to the initialization stage.  
 
---- 
 
-Let me know if further refinements are needed!
