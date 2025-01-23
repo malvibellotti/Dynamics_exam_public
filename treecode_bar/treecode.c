@@ -129,7 +129,7 @@ local void treeforce(void)
 {
     bodyptr p;
     real M_halo = 1000;  // Total halo mass in solar masses
-    real a_scale = 12;  // Scale radius in parsecs
+    real a_scale = 20;  // Scale radius in parsecs
 
     for (p = bodytab; p < bodytab+nbody; p++)   /* loop over all bodies     */
         Update(p) = TRUE;                       /* update all forces        */
